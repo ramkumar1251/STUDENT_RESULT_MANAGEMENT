@@ -34,6 +34,44 @@ This project is a Java-based web application developed using Eclipse and Apache 
 - Microsoft SQL Server
 - Eclipse IDE with the necessary plugins for Java EE development
 
+## Screenshots
+
+### Home
+![Home](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/home.png)
+
+### Admin Login
+![Admin Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/admin_login.png)
+
+### Add Student
+![Add Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/add_student.png)
+
+### View Student
+![View Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/view_student.png)
+
+### Edit Student
+![Edit Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/edit_student.png)
+
+### Delete Student
+![Delete Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/delete_student.png)
+
+### Download Student
+![Download Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/download_student.png)
+
+### Student Login
+![Student Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/student_login.png)
+
+### Student Dashboard
+![Student Dashboard](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/student_dashboard.png)
+
+### About
+![About](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/about.png)
+
+
+
+
+
+
+
 ### Installation
 
 1. **Clone the Repository:**
