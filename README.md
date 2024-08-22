@@ -40,28 +40,28 @@ This project is a Java-based web application developed using Eclipse and Apache 
 ![Home](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/home.png)
 
 ### Admin Login
-![Admin Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/admin_login.png)
+![Admin Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/adminLogin.png)
 
 ### Add Student
-![Add Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/add_student.png)
+![Add Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/addStudent.png)
 
 ### View Student
-![View Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/view_student.png)
+![View Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/viewStudent.png)
 
 ### Edit Student
-![Edit Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/edit_student.png)
+![Edit Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/editStudent.png)
 
 ### Delete Student
-![Delete Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/delete_student.png)
+![Delete Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/deleteStudent.png)
 
 ### Download Student
-![Download Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/download_student.png)
+![Download Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/downloadStudent.png)
 
 ### Student Login
-![Student Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/student_login.png)
+![Student Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/studentSogin.png)
 
 ### Student Dashboard
-![Student Dashboard](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/student_dashboard.png)
+![Student Dashboard](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/studentDashboard.png)
 
 ### About
 ![About](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/about.png)
