@@ -58,7 +58,7 @@ This project is a Java-based web application developed using Eclipse and Apache 
 ![Download Student](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/downloadStudent.png)
 
 ### Student Login
-![Student Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/studentSogin.png)
+![Student Login](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/studentLogin.png)
 
 ### Student Dashboard
 ![Student Dashboard](https://github.com/ramkumar1251/STUDENT_RESULT_MANAGEMENT/raw/main/images/studentDashboard.png)
